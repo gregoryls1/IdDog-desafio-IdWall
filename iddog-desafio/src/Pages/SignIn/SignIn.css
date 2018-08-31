@@ -1,0 +1,12 @@
+.signin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signin_wrapper{
+    text-align: center;
+    margin-top: 10%;
+}
+
+

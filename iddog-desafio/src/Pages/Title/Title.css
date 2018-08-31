@@ -1,0 +1,10 @@
+.title {
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 15px;
+    margin: 80px 0 0 0;
+}
+
+.featured {
+    font-weight: bold;
+}
